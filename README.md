@@ -1,1 +1,1 @@
-submission-demo : https://adem951.github.io/index.html
+[live demo](https://adem951.github.io/index.html)
